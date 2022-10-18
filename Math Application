@@ -1,0 +1,4 @@
+Design a Math application
+
+It accepts an integer number as input and output whether it is a rational number or perfect number or a prome number. Design a parallel program for the same use sections for every operations incorporate private for rational numbers,
+last private for perfect number, first private for prime number. Limit the no.of.threads as 3.
